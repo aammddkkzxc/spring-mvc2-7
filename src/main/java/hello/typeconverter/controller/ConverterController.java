@@ -1,4 +1,4 @@
-package hello.typeconverter.contoller;
+package hello.typeconverter.controller;
 
 import hello.typeconverter.type.IpPort;
 import lombok.Data;
